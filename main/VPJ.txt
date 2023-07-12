@@ -1,0 +1,7 @@
+
+ObjectClass Name              PrincipalSource 
+----------- ----              --------------- 
+Usuário     VPJ\Administrador Local           
+Usuário     VPJ\valdi         MicrosoftAccount
+
+
