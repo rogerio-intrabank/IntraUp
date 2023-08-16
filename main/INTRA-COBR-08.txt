@@ -1,9 +1,0 @@
-
-ObjectClass Name                        PrincipalSource
------------ ----                        ---------------
-Outros      INTRABANK\                  ActiveDirectory
-Grupo       INTRABANK\ADMIN_TI          ActiveDirectory
-Grupo       INTRABANK\Domain Admins     ActiveDirectory
-Usuário     INTRA-COBR-08\Administrador Local          
-
-
