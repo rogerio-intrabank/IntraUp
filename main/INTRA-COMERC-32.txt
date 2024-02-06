@@ -1,0 +1,12 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Outros      INTRABANK\                    ActiveDirectory
+Usuário     INTRABANK\abner.batista       ActiveDirectory
+Grupo       INTRABANK\ADMIN_FT            ActiveDirectory
+Grupo       INTRABANK\ADMIN_TI            ActiveDirectory
+Grupo       INTRABANK\Domain Admins       ActiveDirectory
+Usuário     INTRABANK\titanium            ActiveDirectory
+Usuário     INTRA-COMERC-32\Administrador Local          
+
+
