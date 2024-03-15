@@ -1,0 +1,12 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Grupo       INTRABANK\Admin_FT            ActiveDirectory
+Grupo       INTRABANK\ADMIN_TI            ActiveDirectory
+Grupo       INTRABANK\Domain Admins       ActiveDirectory
+Usuário     INTRABANK\natalia.costa       ActiveDirectory
+Usuário     INTRABANK\titanium            ActiveDirectory
+Usuário     INTRA-COMPLI-06\Administrador Local          
+Usuário     INTRA-COMPLI-06\intrabank     Local          
+
+
