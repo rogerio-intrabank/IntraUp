@@ -1,0 +1,8 @@
+
+ObjectClass Name                            PrincipalSource
+----------- ----                            ---------------
+Usuário     PIRAN-FINA-01\Administrador     Local          
+Usuário     PIRAN-FINA-01\intrabank         Local          
+Usuário     PIRAN-FINA-01\Suporte Intrabank Local          
+
+
