@@ -1,0 +1,10 @@
+
+ObjectClass Name                       PrincipalSource
+----------- ----                       ---------------
+Grupo       INTRABANK\ADMIN_TI         ActiveDirectory
+Grupo       INTRABANK\Domain Admins    ActiveDirectory
+Usuário     INTRABANK\murillo.spinelli ActiveDirectory
+Usuário     INTRA-TI-14\Administrador  Local          
+Usuário     INTRA-TI-14\Intrabank      Local          
+
+
