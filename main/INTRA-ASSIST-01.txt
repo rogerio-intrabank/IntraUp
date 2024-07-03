@@ -1,0 +1,11 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Usuário     INTRA-ASSIST-01\Administrador Local          
+Usuário     INTRA-ASSIST-01\intrabank     Local          
+Grupo       INTRABANK\ADMIN_FT            ActiveDirectory
+Grupo       INTRABANK\ADMIN_TI            ActiveDirectory
+Grupo       INTRABANK\Domain Admins       ActiveDirectory
+Usuário     INTRABANK\titanium            ActiveDirectory
+
+
