@@ -1,0 +1,8 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Usuário     INTRA-COMERC-48\Administrador Local          
+Usuário     INTRA-COMERC-48\Intrabank     Local          
+Usuário     INTRA-COMERC-48\Suporte       Local          
+
+
