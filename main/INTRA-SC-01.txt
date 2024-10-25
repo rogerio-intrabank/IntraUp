@@ -1,0 +1,10 @@
+
+ObjectClass Name                                                 PrincipalSource
+----------- ----                                                 ---------------
+Usuário     INTRA-SC-01\Administrador                            Local          
+Usuário     INTRA-SC-01\intrabank                                Local          
+Usuário     INTRA-SC-01\suporte                                  Local          
+Outros      S-1-12-1-2733764450-1340509192-1652207524-2142480625 AzureAD        
+Outros      S-1-12-1-934471176-1307250149-4077113999-1547305878  AzureAD        
+
+
