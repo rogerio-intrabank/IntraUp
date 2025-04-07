@@ -1,0 +1,8 @@
+
+ObjectClass Name                        PrincipalSource
+----------- ----                        ---------------
+Usuário     INTRA-DUDA-01\Administrador Local          
+Usuário     INTRA-DUDA-01\Duda          Local          
+Usuário     INTRA-DUDA-01\Intrabank     Local          
+
+
