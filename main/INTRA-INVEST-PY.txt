@@ -1,0 +1,9 @@
+
+ObjectClass Name                                                 PrincipalSource
+----------- ----                                                 ---------------
+Usuário     INTRABANK\automation01                               AzureAD        
+Usuário     INTRA-INVEST-PY\Administrador                        Local          
+Outros      S-1-12-1-2733764450-1340509192-1652207524-2142480625 AzureAD        
+Outros      S-1-12-1-934471176-1307250149-4077113999-1547305878  AzureAD        
+
+
