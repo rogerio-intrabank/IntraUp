@@ -1,0 +1,9 @@
+
+ObjectClass Name                                           PrincipalSource
+----------- ----                                           ---------------
+Usuário     INTRA-TI-25\Administrador                      Local          
+Usuário     INTRA-TI-25\Intrabank                          Local          
+Outros      S-1-5-21-3182749460-3574886360-1251204821-1112 ActiveDirectory
+Outros      S-1-5-21-3182749460-3574886360-1251204821-1894 ActiveDirectory
+
+
