@@ -1,0 +1,13 @@
+
+ObjectClass Name                                                 PrincipalSource
+----------- ----                                                 ---------------
+Grupo       INTRABANK\ADMIN_FT                                   ActiveDirectory
+Grupo       INTRABANK\ADMIN_TI                                   ActiveDirectory
+Grupo       INTRABANK\Domain Admins                              ActiveDirectory
+Usuário     INTRABANK\titanium                                   ActiveDirectory
+Usuário     INTRA-INVEST-PY\Administrador                        Local          
+Outros      S-1-12-1-2249823464-1278597267-2601654683-1825746921 AzureAD        
+Outros      S-1-12-1-2733764450-1340509192-1652207524-2142480625 AzureAD        
+Outros      S-1-12-1-934471176-1307250149-4077113999-1547305878  AzureAD        
+
+
