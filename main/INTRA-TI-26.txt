@@ -1,0 +1,7 @@
+
+ObjectClass Name                      PrincipalSource
+----------- ----                      ---------------
+Usuário     INTRA-TI-26\Administrador Local          
+Usuário     INTRA-TI-26\Intrabank     Local          
+
+
