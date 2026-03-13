@@ -1,0 +1,8 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Grupo       INTRABANK\Domain Admins       ActiveDirectory
+Usuário     INTRA-COMERC-67\Administrador Local          
+Usuário     INTRA-COMERC-67\Intrabank     Local          
+
+
