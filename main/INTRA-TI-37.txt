@@ -1,0 +1,9 @@
+
+ObjectClass Name                      PrincipalSource
+----------- ----                      ---------------
+Usuário     INTRABANK\breno.moura     ActiveDirectory
+Grupo       INTRABANK\Domain Admins   ActiveDirectory
+Usuário     INTRA-TI-37\Administrador Local          
+Usuário     INTRA-TI-37\Intrabank     Local          
+
+
