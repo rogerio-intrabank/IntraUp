@@ -1,0 +1,12 @@
+
+ObjectClass Name                                                 PrincipalSource
+----------- ----                                                 ---------------
+Usuário     AzureAD\MadesAlmeidaSpread                           AzureAD        
+Usuário     INV11462\Administrador                               Local          
+Usuário     INV11462\mades                                       Local          
+Usuário     INV11462\supadmin                                    Local          
+Outros      S-1-12-1-2733764450-1340509192-1652207524-2142480625 AzureAD        
+Outros      S-1-12-1-934471176-1307250149-4077113999-1547305878  AzureAD        
+Outros      S-1-5-21-1786153237-272166836-2550238891-26177       ActiveDirectory
+
+
