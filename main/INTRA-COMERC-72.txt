@@ -1,0 +1,6 @@
+
+ObjectClass Name                          PrincipalSource
+----------- ----                          ---------------
+Usuário     INTRA-COMERC-72\Administrador Local          
+
+
