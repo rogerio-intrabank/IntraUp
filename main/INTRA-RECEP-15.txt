@@ -1,0 +1,8 @@
+
+ObjectClass Name                         PrincipalSource
+----------- ----                         ---------------
+Grupo       INTRABANK\Domain Admins      ActiveDirectory
+Usuário     INTRA-RECEP-15\Administrador Local          
+Usuário     INTRA-RECEP-15\Intrabank     Local          
+
+
