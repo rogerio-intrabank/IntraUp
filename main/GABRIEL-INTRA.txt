@@ -1,0 +1,14 @@
+
+ObjectClass Name                                                 PrincipalSource
+----------- ----                                                 ---------------
+Usuário     AzureAD\GabrielSouzaSpread                           AzureAD        
+Usuário     Gabriel-Intra\Administrador                          Local          
+Usuário     Gabriel-Intra\gabriel                                Local          
+Usuário     Gabriel-Intra\suporte                                Local          
+Outros      S-1-12-1-1309631774-1175368761-807519423-2430220869  AzureAD        
+Outros      S-1-12-1-2542938825-1226859437-582083002-3336785030  AzureAD        
+Outros      S-1-12-1-2733764450-1340509192-1652207524-2142480625 AzureAD        
+Outros      S-1-12-1-934471176-1307250149-4077113999-1547305878  AzureAD        
+Usuário     SPREADTEC\gabrielsouza                               AzureAD        
+
+
